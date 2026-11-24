@@ -1,0 +1,12 @@
+# 内容：Notion 及相关服务
+# 建议策略：Notion / Proxy
+# 数量：9
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notionchina.co
+DOMAIN-SUFFIX,notionusercontent.com
+DOMAIN-SUFFIX,splunkcloud.com
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-SUFFIX,transcend.io

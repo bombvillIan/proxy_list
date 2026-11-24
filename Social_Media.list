@@ -1,0 +1,36 @@
+# 内容：社交媒体、新闻百科、流媒体与游戏平台
+# 建议策略：Proxy
+# 数量：33
+DOMAIN-SUFFIX,97tvs.com
+DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,docdownloader.com
+DOMAIN-SUFFIX,dw.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,freedom.gov
+DOMAIN-SUFFIX,inoreader.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,lalettre.fr
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,nytimes.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,scribd.com
+DOMAIN-SUFFIX,scribdassets.com
+DOMAIN-SUFFIX,slideshare.net
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,threads.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,zaobao.com.sg

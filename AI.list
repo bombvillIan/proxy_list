@@ -1,0 +1,72 @@
+# 内容：AI 服务（已补充 Gemini / Gemini Notebook(NotebookLM) / Antigravity / OpenAI / Claude 完整规则）
+# 建议策略：AI（建议使用美国/日本/新加坡等原生解锁节点，避免香港等受限地区）
+# 注意：必须排在 YouTube.list 之后、Google.list 之前，避免 Google.list 劫持 Gemini/NotebookLM/Antigravity
+# 提示：如遇 Antigravity/Gemini 登录页地区校验异常，可取消注释 # DOMAIN,accounts.google.com
+# 数量：56
+
+# --- Google Gemini / NotebookLM / AI Studio / DeepMind ---
+DOMAIN,aida.googleapis.com
+DOMAIN,aisandbox-pa.googleapis.com
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,appsgenaiserver-pa.googleapis.com
+DOMAIN,geller-pa.googleapis.com
+DOMAIN,proactivebackend-pa.googleapis.com
+DOMAIN,robinfrontend-pa.googleapis.com
+DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,jules.google.com
+DOMAIN-SUFFIX,labs.google
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,notebook.google
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+
+# --- Google Antigravity & Google AI Shared Infrastructure ---
+# DOMAIN,accounts.google.com
+DOMAIN,aicode.googleapis.com
+DOMAIN,aiplatform.googleapis.com
+DOMAIN,antigravity-pa.googleapis.com
+DOMAIN,antigravity.googleapis.com
+DOMAIN,cloudcode-pa.googleapis.com
+DOMAIN,daily-cloudcode-pa.googleapis.com
+DOMAIN,oauth2.googleapis.com
+DOMAIN-SUFFIX,antigravity-unleash.goog
+DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,antigravity.google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,play.googleapis.com
+DOMAIN-SUFFIX,us-central1.run.app
+
+# --- OpenAI / ChatGPT ---
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chatgpt.site
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+
+# --- Anthropic / Claude ---
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+
+# --- Other AI Services & Tools ---
+DOMAIN-SUFFIX,clawhub.ai
+DOMAIN-SUFFIX,cun.ai
+DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,lmstudio.ai
+DOMAIN-SUFFIX,myclaw.ai
+DOMAIN-SUFFIX,ragflow.io
+DOMAIN-SUFFIX,tripo3d.ai

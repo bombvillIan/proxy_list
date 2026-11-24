@@ -1,0 +1,5 @@
+# 内容：Tailscale 私有组网网段（已规范化为标准 CIDR）
+# 建议策略：Tailscale / DIRECT
+# 数量：2
+IP-CIDR,100.104.100.0/24,no-resolve
+IP-CIDR,192.168.7.0/24,no-resolve

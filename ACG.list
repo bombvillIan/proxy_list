@@ -1,0 +1,16 @@
+# 内容：二次元、漫画与动漫周边（E-Hentai、哔咔、禁漫等，已从 NSFW 独立拆分）
+# 建议策略：Proxy
+# 数量：13
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,ehgt.org
+DOMAIN-SUFFIX,ehpanda.app
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,hath.network
+DOMAIN-SUFFIX,jmapp3.cc
+DOMAIN-SUFFIX,jmdanjonproxy.xyz
+DOMAIN-SUFFIX,kimetsu.com
+DOMAIN-SUFFIX,manhuabika.com
+DOMAIN-SUFFIX,picacomic.com
+DOMAIN-SUFFIX,suruga-ya.jp
+DOMAIN-SUFFIX,tipatipa.xyz
+DOMAIN-SUFFIX,wikawika.xyz

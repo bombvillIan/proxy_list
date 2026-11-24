@@ -1,0 +1,32 @@
+# 内容：广告与追踪拦截（合并原 REJECT 规则及疑似误入 Proxy 的广告追踪域名）
+# 建议策略：REJECT
+# 数量：29
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,adnami.io
+DOMAIN-SUFFIX,adnxs.com
+DOMAIN-SUFFIX,adsappier.com
+DOMAIN-SUFFIX,adtrafficquality.google
+DOMAIN-SUFFIX,adxadserv.com
+DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,app-analytics-services.com
+DOMAIN-SUFFIX,appier.net
+DOMAIN-SUFFIX,appiersig.com
+DOMAIN-SUFFIX,bluetrafficstream.com
+DOMAIN-SUFFIX,casalemedia.com
+DOMAIN-SUFFIX,evidon.com
+DOMAIN-SUFFIX,g.doubleclick.net
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,googletagservices.com
+DOMAIN-SUFFIX,inmobi.cn
+DOMAIN-SUFFIX,inmobi.com
+DOMAIN-SUFFIX,inmobicdn.net
+DOMAIN-SUFFIX,inner-active.mobi
+DOMAIN-SUFFIX,moatads.com
+DOMAIN-SUFFIX,pubmatic.com
+DOMAIN-SUFFIX,smaato.net
+DOMAIN-SUFFIX,smadex.com
+DOMAIN-SUFFIX,spadsync.com
+DOMAIN-SUFFIX,trafficjunky.net

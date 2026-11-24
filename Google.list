@@ -1,0 +1,17 @@
+# 内容：Google 常规服务（不含 YouTube 及 Gemini/NotebookLM/Antigravity 核心 AI 域名）
+# 建议策略：Google / Proxy
+# 警告：必须排在 YouTube.list 和 AI.list 之后，否则 DOMAIN-SUFFIX,google.com 会劫持 Gemini/NotebookLM/Antigravity！
+# 数量：13
+DOMAIN-SUFFIX,c.gle
+DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,g.co
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,google.co.jp
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,google.com.hk
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,syndicatedsearch.goog
+DOMAIN-SUFFIX,withgoogle.com
+IP-CIDR,74.125.250.129/32,no-resolve

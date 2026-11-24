@@ -1,0 +1,36 @@
+# 内容：机场面板、订阅转换与代理服务（中文域名已统一转为标准 Punycode）
+# 建议策略：Proxy
+# 数量：30
+DOMAIN-SUFFIX,akile.io
+DOMAIN-SUFFIX,amytele.co
+DOMAIN-SUFFIX,api-flowercloud.com
+DOMAIN-SUFFIX,api-huacloud.com
+DOMAIN-SUFFIX,bianyuan.xyz
+DOMAIN-SUFFIX,dmn12.vip
+DOMAIN-SUFFIX,draven.co
+DOMAIN-SUFFIX,gorelay.net
+DOMAIN-SUFFIX,huacloud.dev
+DOMAIN-SUFFIX,id9.cc
+DOMAIN-SUFFIX,joker2yue.cn
+DOMAIN-SUFFIX,kjfx.cc
+DOMAIN-SUFFIX,liuyun.io
+DOMAIN-SUFFIX,mcwy.net
+DOMAIN-SUFFIX,mojie.me
+DOMAIN-SUFFIX,naichayun.net
+DOMAIN-SUFFIX,ocent.net
+DOMAIN-SUFFIX,poxiaoyun.com
+DOMAIN-SUFFIX,stt.homes
+DOMAIN-SUFFIX,stt.today
+DOMAIN-SUFFIX,sttlink.com
+DOMAIN-SUFFIX,sublink.dev
+DOMAIN-SUFFIX,v1.mk
+DOMAIN-SUFFIX,v2-tun.com
+DOMAIN-SUFFIX,wcc.best
+DOMAIN-SUFFIX,westdata.org
+DOMAIN-SUFFIX,xjz.im
+# 一元机场.asia
+DOMAIN-SUFFIX,xn--4gq62f52gdss.asia
+# 一元机场.ink
+DOMAIN-SUFFIX,xn--4gq62f52gdss.ink
+# 奶茶机场.com
+DOMAIN-SUFFIX,xn--mesv5cc3vzi1a.com

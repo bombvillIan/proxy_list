@@ -1,0 +1,19 @@
+# 内容：YouTube 独立分流规则（已补充核心 API 与衍生域名）
+# 建议策略：YouTube / Proxy
+# 注意：必须排在 AI.list 与 Google.list 之前，防止 youtubei.googleapis.com 被 AI.list 接管
+# 数量：15
+DOMAIN,youtubeembeddedplayer.googleapis.com
+DOMAIN,youtubei.googleapis.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtubeeducation.com
+DOMAIN-SUFFIX,youtubefanfest.com
+DOMAIN-SUFFIX,youtubegaming.com
+DOMAIN-SUFFIX,youtubego.com
+DOMAIN-SUFFIX,youtubekids.com
+DOMAIN-SUFFIX,youtubemobilesupport.com
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-KEYWORD,youtube

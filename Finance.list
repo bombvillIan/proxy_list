@@ -1,0 +1,33 @@
+# 内容：金融、海外券商、行情资讯与支付（已修正 download.terminal.free；ibkr.com 与 plus.cnbc.com 已按优先 DIRECT 归入 Direct.list）
+# 建议策略：Proxy
+# 数量：30
+DOMAIN-SUFFIX,allinvestview.com
+DOMAIN-SUFFIX,api.lbkrs.com
+DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,cdnfx.net
+DOMAIN-SUFFIX,cnbc.com
+DOMAIN-SUFFIX,download.terminal.free
+DOMAIN-SUFFIX,finteza.com
+DOMAIN-SUFFIX,firstrade.com
+DOMAIN-SUFFIX,interactivebrokers.com
+DOMAIN-SUFFIX,longbridge.com
+DOMAIN-SUFFIX,marketreportsworld.com
+DOMAIN-SUFFIX,metatrader5.com
+DOMAIN-SUFFIX,moneywithsofia.blog
+DOMAIN-SUFFIX,mql5.com
+DOMAIN-SUFFIX,mql5.community
+DOMAIN-SUFFIX,pepperstone.com
+DOMAIN-SUFFIX,pepperzone-zh.org
+DOMAIN-SUFFIX,portseido.com
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,snaptrade.com
+DOMAIN-SUFFIX,stifel.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripecdn.com
+DOMAIN-SUFFIX,tickerlogos.com
+DOMAIN-SUFFIX,tmgm.com
+DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,trefis.com
+DOMAIN-SUFFIX,us.hsbc.com
+DOMAIN-SUFFIX,wikifx.com
+DOMAIN-SUFFIX,wsj.net

@@ -1,0 +1,16 @@
+# 内容：国内直连、NAS 私有云、港银及冲突优先 DIRECT 域名
+# 建议策略：DIRECT（建议排在 Finance.list 之前，以确保 plus.cnbc.com 优先直连）
+# 数量：13
+DOMAIN,plus.cnbc.com
+DOMAIN-SUFFIX,acs.org
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,ibkr.com
+DOMAIN-SUFFIX,ibllc.com
+DOMAIN-SUFFIX,ibllc.com.cn
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,myqnapcloud.cn
+DOMAIN-SUFFIX,peraglobal.com
+DOMAIN-SUFFIX,qnap.com.cn
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-KEYWORD,quickconnect

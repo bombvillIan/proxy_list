@@ -1,0 +1,16 @@
+# 内容：微软 & Office 365 服务
+# 建议策略：Microsoft / Proxy
+# 数量：13
+DOMAIN-SUFFIX,apis.live.net
+DOMAIN-SUFFIX,azurewebsites.net
+DOMAIN-SUFFIX,clarity.ms
+DOMAIN-SUFFIX,cloud.microsoft
+DOMAIN-SUFFIX,docs.live.net
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,officeapps.live.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,skype.com
